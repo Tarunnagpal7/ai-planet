@@ -23,7 +23,8 @@ This is the **frontend client** for the Fullstack Internship Assignment — a PD
 - **Lucide-React** - Icon set
 - **Vite** - Fast development server and bundler
 
----
+## Architecture
+ ![ai-planet-architecture drawio](https://github.com/user-attachments/assets/f0c16ed2-cc81-4043-aed9-3a0282f35d41)
 
 ---
 ## Backend :
