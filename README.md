@@ -29,6 +29,12 @@ This is the **frontend client** for the Fullstack Internship Assignment — a PD
 ---
 ## Backend :
 - https://github.com/Tarunnagpal7/ai-planet-langchain
+
+
+
+MUST READ
+The project uses large embedding vectors, and the backend is currently deployed on Render’s free service tier.
+Due to limited server resources (memory, compute, timeout restrictions), there may occasionally be delays or timeouts when processing very large documents or during high traffic.
 ---
 
 ## 🚀 Setup Instructions
